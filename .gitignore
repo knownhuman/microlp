@@ -107,7 +107,7 @@ venv.bak/
 .idea
 
 # pickled models
-*.pickle
+# *.pickle
 
 # notebook checkpoints
 */.ipynb_checkpoints
